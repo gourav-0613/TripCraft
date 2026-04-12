@@ -28,8 +28,7 @@ Generative AI (LLM) to craft detailed travel itineraries and cost estimations.
 ⚙️ Installation & Setup
 Follow these steps to run TripCraft locally:
 Clone the Repository:
-Bash
-git clone https://github.com/yourusername/tripcraft.git
+git clone https://github.com/gourav-0613/TripCraft.git
 cd tripcraft
 
 Backend Setup:
